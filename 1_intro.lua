@@ -8,6 +8,4 @@ print("Hello World")
 ]]
 
 --concat with ..
-print("Hello " .. "Jack")
-
---open this with "mod 1.lua"
+print("Hello " .. "Jack"
